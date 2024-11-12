@@ -1,0 +1,1 @@
+This is documentation for my project...About me, my resume and the work experience in this IT field. I have a page about my contact Linkedin, phone number and email. I've used HTML, CSS, Bootstrap. 
